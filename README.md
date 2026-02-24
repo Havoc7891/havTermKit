@@ -1,5 +1,7 @@
 # havTermKit
 
+![Example usage of havTermKit](/screenshot/havTermKitExample.png "Example usage of havTermKit")
+
 Havoc's single-file terminal utility library for modern C and C++.
 
 It provides ANSI escape macros for text styling, colors, cursor control, screen clearing, and hyperlinks, plus a small init function to enable VT support and UTF-8 behavior on Windows.
